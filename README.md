@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-# AGC BOT
+# AGC BOT Application
 </div>
 
 #### Clone this repository ✅
