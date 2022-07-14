@@ -26,14 +26,16 @@ git clone https://github.com/Mindula-Dilthushan/agc-bot.git
 
 </div>
 
-<div align="center">
+<div align="left">
 
 | Contributors     | 
 |------------------|
-| [Alern23](https://github.com/Alern23)      |                       
-| [Olivia-Emma](https://github.com/Olivia-Emma)  |    
-| [Linking0](https://github.com/Linking0)        |
-| [Henry-Theodore](https://github.com/Henry-Theodore)  |
+| [Alern23](https://github.com/Alern23) |                       
+| [Olivia-Emma](https://github.com/Olivia-Emma) |    
+| [Linking0](https://github.com/Linking0) |
+| [Henry-Theodore](https://github.com/Henry-Theodore) |
+| [Noah-Oscar](https://github.com/Noah-Oscar) |
+| [Lucas-Theodore](https://github.com/Lucas-Theodore) |
 
 </div>
 
