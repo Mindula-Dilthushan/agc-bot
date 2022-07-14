@@ -37,10 +37,7 @@ git clone https://github.com/Mindula-Dilthushan/agc-bot.git
 
 </div>
 
-
 <div align="center"> 
 
 #### Author by [Mindula Dilthushan Manamperi](http://minduladilthushan.netlify.app/) ^_~
 </div>
-  
-<p>1</p>
