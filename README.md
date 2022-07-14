@@ -3,6 +3,7 @@
 # AGC BOT Application
 </div>
 
+
 #### Clone this repository ✅
 ```md
 git clone https://github.com/Mindula-Dilthushan/agc-bot.git
@@ -25,9 +26,18 @@ git clone https://github.com/Mindula-Dilthushan/agc-bot.git
 
 </div>
 
+<div align="center">
+
+| Contributors     | 
+|------------------|
+| [Alern23](https://github.com/Alern23)      |                       
+| [Olivia-Emma](https://github.com/Olivia-Emma)  |    
+| [Linking0](https://github.com/Linking0)        |
+| [Henry-Theodore](https://github.com/Henry-Theodore)  |
+
+</div>
+
 <div align="center"> 
 
-#### Developed by [Mindula Dilthushan Manamperi](http://minduladilthushan.netlify.app/) ^_~
+#### Author by [Mindula Dilthushan Manamperi](http://minduladilthushan.netlify.app/) ^_~
 </div>
-  
-  
